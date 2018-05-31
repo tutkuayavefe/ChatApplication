@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "499255132099",
+    "firebase_url": "https://chatapp2-9e911.firebaseio.com",
+    "project_id": "chatapp2-9e911",
+    "storage_bucket": "chatapp2-9e911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499255132099:android:aa8324ddf6af3f19",
+        "android_client_info": {
+          "package_name": "com.tutku.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499255132099-kb3c5f85bul4ufmjdl5hh0gucimlqq50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutku.chatapp",
+            "certificate_hash": "f6dd8f72057dbebc22890a493338b480842fdd6d"
+          }
+        },
+        {
+          "client_id": "499255132099-nn77ie4dl1us10hstc4oq1l3c8ptcrnj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "499255132099-nn77ie4dl1us10hstc4oq1l3c8ptcrnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_RqEWuIb0AVa-A8reJdF9HzH-ipfI3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499255132099-nn77ie4dl1us10hstc4oq1l3c8ptcrnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499255132099:android:4096a584ca7947d8",
+        "android_client_info": {
+          "package_name": "com.tutku.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499255132099-1e4riu0p0lkj02r25pjn285qb09eso0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutku.chatapplication",
+            "certificate_hash": "f6dd8f72057dbebc22890a493338b480842fdd6d"
+          }
+        },
+        {
+          "client_id": "499255132099-nn77ie4dl1us10hstc4oq1l3c8ptcrnj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "499255132099-nn77ie4dl1us10hstc4oq1l3c8ptcrnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_RqEWuIb0AVa-A8reJdF9HzH-ipfI3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499255132099-nn77ie4dl1us10hstc4oq1l3c8ptcrnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
